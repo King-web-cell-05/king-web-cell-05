@@ -39,9 +39,9 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![King's GitHub Stats](https://github-readme-stats.vercel.app/api?username=king-web-cell-05&show_icons=true&theme=radical)  
+![King's GitHub Stats](https://github-readme-stats.vercel.app/api?username=king-web-cell-05&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=king-web-cell-05&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=king-web-cell-05&layout=compact&theme=radical&hide_border=true)
 
 ---
 
