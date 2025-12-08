@@ -5,11 +5,11 @@ Welcome to my GitHub profile!
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently building web apps with **Next.js** and **Node.js**  
-- 🌱 I’m currently learning advanced **JavaScript**, **TypeScript**, and **C#/.NET**  
+- 🔭 I’m a full-Stack developer, I specialize in JavaScript,React and Next.js   
+- 🌱 I’m currently learning advanced **Node.js**, **TypeScript**, and **C#/.NET**  
 - 👯 I’m looking to collaborate on open-source projects  
 - 💬 Ask me about **Web Development, APIs, and UI/UX animations**  
-- 📫 How to reach me: [Email](mailto:youremail@example.com) | [LinkedIn](https://linkedin.com/in/your-link)
+- 📫 How to reach me: [Email](mailto:kingsleydada159@gmail.com) | [LinkedIn](https://linkedin.com/in/your-link)
 
 ---
 
