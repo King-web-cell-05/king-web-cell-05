@@ -52,9 +52,23 @@ Welcome to my GitHub profile!
 ---
 
 ## 📝 Projects
-- [Project 1](https://github.com/king-web-cell-05/project1) - Short description
-- [Project 2](https://github.com/king-web-cell-05/project2) - Short description
+1. House of 2Talk – Professional Barber Booking Website
 
+Live Link: https://house-of-2talk-entertainment.vercel.app/
+
+A streamlined barber appointment platform that allows users to explore services, view pricing, and book sessions seamlessly through a modern, mobile-friendly interface.
+
+2. Kingsley Dada – Personal Developer Portfolio
+
+Live Link: https://kingsleydada-portfolio.vercel.app/
+
+A comprehensive and visually clean developer portfolio showcasing skills, projects, experience, and personal branding, built with responsive layouts and smooth animations.
+
+3. RealEstate Alpha – Intuitive Real Estate App
+
+Live Link: https://realestate-alpha-eight.vercel.app/
+
+A user-focused real estate application for browsing properties, viewing detailed listings, and exploring location data through a fast, modern interface.
 ---
 
 Thanks for visiting my GitHub profile! 🚀
