@@ -50,8 +50,7 @@ Welcome to my GitHub profile!
 ![Trophies](https://github-profile-trophy.vercel.app/?username=king-web-cell-05&theme=radical&no-frame=true&margin-w=10)
 
 ---
-
-## 📝 Projects
+📝 Projects
 1. House of 2Talk – Professional Barber Booking Website
 
 Live Link: https://house-of-2talk-entertainment.vercel.app/
@@ -64,11 +63,32 @@ Live Link: https://kingsleydada-portfolio.vercel.app/
 
 A comprehensive and visually clean developer portfolio showcasing skills, projects, experience, and personal branding, built with responsive layouts and smooth animations.
 
-3. RealEstate Alpha – Intuitive Real Estate App
+3. RealEstate  – Intuitive Real Estate App
 
-Live Link: https://realestate-alpha-eight.vercel.app/
+Live Link: https://realestate-alpha-eight.vercel.app
 
 A user-focused real estate application for browsing properties, viewing detailed listings, and exploring location data through a fast, modern interface.
----
+
+4. Seamless Todo App – Fast and Minimal Task Manager
+
+Live Link: https://king-web-cell-05.github.io/todo-app/
+
+
+A beautifully structured and intuitive Todo application that helps users manage daily tasks effortlessly. Built with a sleek UI, instant task updates, and persistent storage for a smooth user experience across all devices.
+
+5. Weather App – Clean and Accurate Weather Forecasting Tool
+
+Live Link: https://king-web-cell-05.github.io/weather-Apc/
+
+
+
+A modern and responsive weather application that delivers real-time temperature, humidity, and condition data. Designed for speed, accuracy, and ease of use with API-driven results and clean layouts.
+
+6. Intuitive Quiz App – Interactive Learning Experience
+
+Live Link: https://quiz-app-rho-ebon.vercel.app/
+
+
+A dynamic and user-friendly quiz application featuring real-time scoring, interactive navigation, and a responsive interface. Created for smooth learning experiences with accurate feedback and fast performance.
 
 Thanks for visiting my GitHub profile! 🚀
