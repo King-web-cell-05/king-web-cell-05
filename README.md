@@ -53,44 +53,30 @@ Welcome to my GitHub profile!
 📝 Projects
 1. House of 2Talk – Professional Barber Booking Website
 
-Live Link: https://house-of-2talk-entertainment.vercel.app/
-
 A streamlined barber appointment platform that allows users to explore services, view pricing, and book sessions seamlessly through a modern, mobile-friendly interface.
 
 2. Kingsley Dada – Personal Developer Portfolio
-
-Live Link: https://kingsleydada-portfolio.vercel.app/
 
 A comprehensive and visually clean developer portfolio showcasing skills, projects, experience, and personal branding, built with responsive layouts and smooth animations.
 
 3. RealEstate – Intuitive Real Estate App
 
-Live Link: https://realestate-alpha-eight.vercel.app
-
 A user-focused real estate application for browsing properties, viewing detailed listings, and exploring location data through a fast, modern interface.
 
 4. BrandLift Technologies – Business Website for Growing Brands
-
-Live Link: https://brandlift-technologies.vercel.app/
 
 A modern and professionally designed company website built for an up-and-coming digital agency focused on helping growing businesses establish a strong online presence.
 I collaborated on this project, contributing to the development of a clean UI, responsive layouts, and smooth user experience optimized for business branding and client engagement.
 
 5. Seamless Todo App – Fast and Minimal Task Manager
 
-Live Link: https://king-web-cell-05.github.io/todo-app/
-
 A beautifully structured and intuitive Todo application that helps users manage daily tasks effortlessly. Built with a sleek UI, instant task updates, and persistent storage for a smooth user experience across all devices.
 
 6. Weather App – Clean and Accurate Weather Forecasting Tool
 
-Live Link: https://king-web-cell-05.github.io/weather-Apc/
-
 A modern and responsive weather application that delivers real-time temperature, humidity, and condition data. Designed for speed, accuracy, and ease of use with API-driven results and clean layouts.
 
 7. Intuitive Quiz App – Interactive Learning Experience
-
-Live Link: https://quiz-app-rho-ebon.vercel.app/
 
 A dynamic and user-friendly quiz application featuring real-time scoring, interactive navigation, and a responsive interface. Created for smooth learning experiences with accurate feedback and fast performance.
 
