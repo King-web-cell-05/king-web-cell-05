@@ -52,6 +52,7 @@ Welcome to my GitHub profile!
 
 ---
 📝 Projects
+📝 Projects
 1. House of 2Talk – Professional Barber Booking Website
 
 A streamlined barber appointment platform that allows users to explore services, view pricing, and book sessions seamlessly through a modern, mobile-friendly interface.
@@ -67,7 +68,7 @@ A user-focused real estate application for browsing properties, viewing detailed
 4. BrandLift Technologies – Business Website for Growing Brands
 
 A modern and professionally designed company website built for an up-and-coming digital agency focused on helping growing businesses establish a strong online presence.
-I collaborated on this project, contributing to the development of a clean UI, responsive layouts, and smooth user experience optimized for business branding and client engagement.
+I collaborated on this project, contributing to clean UI implementation, responsive layouts, and a smooth user experience optimized for business branding and client engagement.
 
 5. Seamless Todo App – Fast and Minimal Task Manager
 
@@ -81,4 +82,7 @@ A modern and responsive weather application that delivers real-time temperature,
 
 A dynamic and user-friendly quiz application featuring real-time scoring, interactive navigation, and a responsive interface. Created for smooth learning experiences with accurate feedback and fast performance.
 
-Thanks for visiting my GitHub profile! 🚀
+8. Chess Game – C# WPF Desktop Application
+
+A fully functional chess game developed as a C# WPF desktop application, featuring structured game logic, board state management, and interactive piece movement.
+This project demonstrates strong understanding of object-oriented programming, game rules implementation, and desktop UI development using WPF.
