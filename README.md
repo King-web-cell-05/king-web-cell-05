@@ -1,88 +1,160 @@
+<!-- HEADER -->
+<h1 align="center">Dada Kingsley Oluwasanmi</h1>
+<h3 align="center">Full-Stack Software Engineer | React • Next.js • Node.js • C#/.NET</h3>
 
-# Hi, I'm Dada Kingsley Oluwasanmi 👋
+<p align="center">
+Building scalable web applications, modern user interfaces, and performant backend systems.
+</p>
 
-Welcome to my GitHub profile!  
+<p align="center">
+<a href="mailto:kingsleydada159@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
----
+<a href="https://linkedin.com/in/your-link">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-## 👨‍💻 About Me
-- 🔭 I’m a full-Stack developer, I specialize in JavaScript,React and Next.js   
-- 🌱 I’m currently learning advanced **Node.js**, **TypeScript**, and **C#/.NET**  
-- 👯 I’m looking to collaborate on open-source projects  
-- 💬 Ask me about **Web Development, APIs, and UI/UX animations**  
-- 📫 How to reach me: [Email](mailto:kingsleydada159@gmail.com) | [LinkedIn](https://linkedin.com/in/your-link)
-
----
-
-## 💻 Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=king-web-cell-05&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tools & Platforms
+# 👨‍💻 About Me
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![King's GitHub Stats](https://github-readme-stats.vercel.app/api?username=king-web-cell-05&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=king-web-cell-05&layout=compact&theme=radical&hide_border=true)
+- Full-Stack Developer specializing in **JavaScript ecosystems**
+- Experienced with **React, Next.js, and modern frontend architecture**
+- Backend development with **Node.js and C# / .NET**
+- Passionate about **clean code, scalable systems, and polished UI**
+- Focused on building **real-world applications with strong user experience**
 
 ---
 
-## 🏆 GitHub Trophies
+# 🚀 Core Tech Stack
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=king-web-cell-05&theme=radical&no-frame=true&margin-w=10)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+![VS Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
 
 ---
-📝 Projects
-📝 Projects
-1. House of 2Talk – Professional Barber Booking Website
 
-A streamlined barber appointment platform that allows users to explore services, view pricing, and book sessions seamlessly through a modern, mobile-friendly interface.
+# 🏆 Selected Projects
 
-2. Kingsley Dada – Personal Developer Portfolio
+### 🪑 House of 2Talk — Service Booking Platform
+A modern booking platform built for a barbing and entertainment brand.
 
-A comprehensive and visually clean developer portfolio showcasing skills, projects, experience, and personal branding, built with responsive layouts and smooth animations.
+**Highlights**
+- Responsive booking interface
+- Service browsing and pricing display
+- Mobile-first design
+- Clean UI architecture
 
-3. RealEstate – Intuitive Real Estate App
+---
 
-A user-focused real estate application for browsing properties, viewing detailed listings, and exploring location data through a fast, modern interface.
+### 💼 Developer Portfolio
+A professional portfolio platform designed to showcase projects, technical skills, and engineering work.
 
-4. BrandLift Technologies – Business Website for Growing Brands
+**Highlights**
 
-A modern and professionally designed company website built for an up-and-coming digital agency focused on helping growing businesses establish a strong online presence.
-I collaborated on this project, contributing to clean UI implementation, responsive layouts, and a smooth user experience optimized for business branding and client engagement.
+- Smooth UI animations
+- Responsive design system
+- Optimized component architecture
+- Personal branding focused layout
 
-5. Seamless Todo App – Fast and Minimal Task Manager
+---
 
-A beautifully structured and intuitive Todo application that helps users manage daily tasks effortlessly. Built with a sleek UI, instant task updates, and persistent storage for a smooth user experience across all devices.
+### 🌐 BrandLift Technologies — Agency Website
+A modern website built for a growing digital agency.
 
-6. Weather App – Clean and Accurate Weather Forecasting Tool
+**Contributions**
 
-A modern and responsive weather application that delivers real-time temperature, humidity, and condition data. Designed for speed, accuracy, and ease of use with API-driven results and clean layouts.
+- Responsive frontend development
+- UI implementation and optimization
+- Clean component structure
+- Improved user experience for business clients
 
-7. Intuitive Quiz App – Interactive Learning Experience
+---
 
-A dynamic and user-friendly quiz application featuring real-time scoring, interactive navigation, and a responsive interface. Created for smooth learning experiences with accurate feedback and fast performance.
+### 🏠 RealEstate — Property Discovery App
+A real estate browsing platform designed for fast property discovery.
 
-8. Chess Game – C# WPF Desktop Application
+**Features**
 
-A fully functional chess game developed as a C# WPF desktop application, featuring structured game logic, board state management, and interactive piece movement.
-This project demonstrates strong understanding of object-oriented programming, game rules implementation, and desktop UI development using WPF.
+- Property listing pages
+- Detailed property views
+- Responsive layouts
+- Clean navigation structure
+
+---
+
+### ♟ Chess Game — C# WPF Desktop Application
+A fully functional chess game built with **C# and WPF**.
+
+**Technical Highlights**
+
+- Object-oriented game architecture
+- Board state management
+- Chess rules implementation
+- Interactive desktop UI
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=king-web-cell-05&show_icons=true&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-web-cell-05&layout=compact&theme=radical&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=king-web-cell-05&theme=radical&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:kingsleydada159@gmail.com">
+<img src="https://img.shields.io/badge/Email-kingsleydada159%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/your-link">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⚡ Building scalable applications and continuously improving engineering skills.
+</p>
